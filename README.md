@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">Pre-final year Computer Science and Engineering Student</h3>
+<img align="right" width="400" alt="PROGRAMMER" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 - 🌱 I’m currently learning **Python**
 
